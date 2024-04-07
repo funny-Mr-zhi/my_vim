@@ -56,3 +56,12 @@ example
   * A/I move to the end/begin of a line and insert
 
   
+## micro
+...
+
+## plungins
+* vundle - plugin manager
+* nerdtree - file drawer
+* ctrlp - fuzzy file finder
+* fugitive - git tool
+* suntastic - syntax checker / linter
