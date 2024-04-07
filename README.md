@@ -40,4 +40,19 @@ example
 * diw - delete in a word
 * caw - change all word
 * di) - delete in the bracket
+* dt) - delete untill )
+* ca" - change all in "
+* va" - visiually choose all in " (then can use "y" to copy all been chosen, and "P" to paste)
 
+  ### . to repeat
+
+  for example: `ci" foo ESC ` move the cursor in other "" and use "." to do the same
+  This command has great power
+
+  ### some else command
+  * dd/yy d/y for all line
+  * D/c d/c until the end of the line
+  * $/^ move to the end/begin of a line
+  * A/I move to the end/begin of a line and insert
+
+  
