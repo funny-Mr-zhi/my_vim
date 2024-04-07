@@ -65,3 +65,5 @@ example
 * ctrlp - fuzzy file finder
 * fugitive - git tool
 * suntastic - syntax checker / linter
+
+> use command `git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim` to install Vundle in ~/.vim/bundle/Vundle.vim
